@@ -7,6 +7,6 @@
 [**26-2 컴퓨터비전**](https://github.com/jinijn33/jinijn33.github.io/tree/main/26-2)
 
 ---
-### Homework 1
+### CV Homework 1
 [Selection![Alt homework11](./homework/homework1.jpg)
 Sorting](./homework/SelectionSorting.pde)
