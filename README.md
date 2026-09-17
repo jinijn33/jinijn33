@@ -8,6 +8,6 @@
 
 ---
 ### Homework 1
-[Selfi](https://github.com/jinijn33/jinijn33/blob/main/26-2/Homework/Selfi.gif)
+[Selfi]![Alt homework1](https://github.com/jinijn33/jinijn33/blob/main/26-2/Homework/Selfi.gif)
 
 [Yolo](https://github.com/jinijn33/jinijn33/blob/main/26-2/Homework/Yolo.gif)
