@@ -8,6 +8,6 @@
 
 ---
 ### CV Homework 1
-[Selfi]![Alt homework1](./homework/homework1.jpg)
+[Selfi]![Alt homework1](https://github.com/jinijn33/jinijn33/blob/main/26-2/Homework/homework1.jpg)
 
 [Yolo](https://www.youtube.com/watch?v=1qnV55LUFVM&list=RD1qnV55LUFVM&start_radio=1)
