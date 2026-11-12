@@ -32,3 +32,6 @@ Model 3
 Model 4
 
 ![Alt homework2](https://github.com/jinijn33/jinijn33/blob/main/26-2/Homework/4.png)
+---
+### Homework 3
+
