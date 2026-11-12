@@ -15,3 +15,20 @@ Selfi
 Yolo
 
 ![Alt homework1](https://github.com/jinijn33/jinijn33/blob/main/26-2/Homework/Yolo.gif)
+---
+### Homework 2
+Model 1
+
+![Alt homework2](https://github.com/jinijn33/jinijn33/blob/main/26-2/Homework/1.png)
+
+Model 2
+
+![Alt homework2](https://github.com/jinijn33/jinijn33/blob/main/26-2/Homework/2.png)
+
+Model 3
+
+![Alt homework2](https://github.com/jinijn33/jinijn33/blob/main/26-2/Homework/3.png)
+
+Model 4
+
+![Alt homework2](https://github.com/jinijn33/jinijn33/blob/main/26-2/Homework/4.png)
