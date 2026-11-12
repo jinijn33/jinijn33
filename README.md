@@ -35,3 +35,6 @@ Model 4
 ---
 ### Homework 3
 
+![Alt homework3](https://github.com/jinijn33/jinijn33/blob/main/26-2/Homework/homework3-1.png)
+
+![Alt homework3](https://github.com/jinijn33/jinijn33/blob/main/26-2/Homework/homework3.png)
